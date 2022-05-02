@@ -1,0 +1,6 @@
+Moon.deps.json
+Moon.dll
+Moon.exe
+Moon.pdb
+Moon.runtimeconfig.json
+version.txt
